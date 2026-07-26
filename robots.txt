@@ -12,4 +12,4 @@ Disallow: /
 User-agent: DotBot
 Disallow: /
 
-Sitemap: https://google-business-profile-optimisation-toowoomba-comparison73d.pages.dev/sitemap.xml
+Sitemap: https://google-business-profile-optimisation-toowoomba-comparison7.pages.dev/sitemap.xml
